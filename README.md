@@ -110,9 +110,9 @@ The views are retrieved from the browser cache
 New view3 gets downloaded
 
 #Building
-npm install
-bower install
-gulp
-firebase deploy
+- npm install
+- bower install
+- gulp
+- firebase deploy
 
 See polymer documentation on how to deploy to firebase.
